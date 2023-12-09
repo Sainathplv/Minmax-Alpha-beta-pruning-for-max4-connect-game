@@ -1,0 +1,27 @@
+at depth =1   Start Time: 0.0466837 and End Time : 0.0495504
+User Time: 0.0028667
+
+at depth =2   Start Time: 0.0430531 and End Time : 0.0463115
+User Time: 0.0032584000000000016
+
+
+at depth =3  Start Time: 0.0445881 and End Time : 0.0478101
+User Time: 0.0032220000000000026
+
+
+
+at depth =4
+Start Time: 0.0427037 and End Time : 0.0459444
+User Time: 0.003240700000000006
+
+
+at depth =5
+
+Start Time: 0.0476266 and End Time : 0.0511541
+User Time: 0.003527500000000003
+
+
+at depth =10
+Start Time: 0.0429831 and End Time : 1.3845626
+User Time: 1.3415795
+
