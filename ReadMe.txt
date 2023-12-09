@@ -1,8 +1,4 @@
-———————— Name , ID ————————————————————
-
-NAME		:	VENKATA SAINATH REDDY PALAVALA
-
------------------------------------ Read Me ------------------------------------
+---------------------------------- Read Me ------------------------------------
 Language used : Python3
 Code written on PyCharm IDE
 And ran on PyCharm terminal
